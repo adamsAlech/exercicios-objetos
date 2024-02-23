@@ -8,9 +8,9 @@ Sou programador e minha cor preferida é verde!`, passando dinamicamente as info
 
 
 const usuario = {
-    nome: "Lucas",
-    idade: 32,
-    profissao: "programador",
+    nome: "Adams",
+    idade: 35,
+    profissao: "Mecânico de automóveis",
     cor_preferida: "preto",
 };
 
