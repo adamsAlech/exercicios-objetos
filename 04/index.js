@@ -10,7 +10,7 @@ ser `true`, caso contrário `false`.*/
 const usuarios = [
     {
         nome: "João",
-        idade: 25,
+        idade: 15,
     },
     {
         nome: "Ana",
@@ -18,11 +18,11 @@ const usuarios = [
     },
     {
         nome: "Beatriz",
-        idade: 15,
+        idade: 25,
     },
     {
         nome: "Carlos",
-        idade: 16,
+        idade: 36,
     },
     {
         nome: "Antonio",
