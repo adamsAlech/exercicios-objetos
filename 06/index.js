@@ -16,11 +16,11 @@ const usuarios = [
     },
     {
         nome: "Ana",
-        idade: 18,
+        idade: 28,
     },
     {
         nome: "Beatriz",
-        idade: 15,
+        idade: 25,
     },
     {
         nome: "Carlos",
@@ -28,7 +28,7 @@ const usuarios = [
     },
     {
         nome: "Antonio",
-        idade: 32,
+        idade: 12,
     },
 ];
 const jovens = [];
