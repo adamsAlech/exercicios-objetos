@@ -15,11 +15,11 @@ c. Se a pessoa tiver um pet, a mensagem deve ser: `Sou Beatriz e tenho 1 pet`.*/
 const usuarios = [
     {
         nome: "João",
-        pets: [],
+        pets: ["Marya"],
     },
     {
         nome: "Ana",
-        pets: ["Pingo", "Lulu"],
+        pets: ["Pingo", "Lulu", "Zeus"],
     },
     {
         nome: "Beatriz",
@@ -27,7 +27,7 @@ const usuarios = [
     },
     {
         nome: "Carlos",
-        pets: ["Farofa", "Salsicha", "Batata"],
+        pets: ["Farofa", "Batata"],
     },
     {
         nome: "Antonio",
